@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-03-29 00:42:01 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- TAZs -->
+    <taz id="taz_0" shape="-8.66,106.16 19.52,106.99 35.27,82.95 20.77,58.08 -11.57,58.08 -24.83,84.19 -8.25,106.57 -8.66,106.16" color="blue">
+        <tazSource id="-E3" weight="1.00"/>
+        <tazSink id="-E3" weight="1.00"/>
+        <tazSource id="E3" weight="1.00"/>
+        <tazSink id="E3" weight="1.00"/>
+    </taz>
+    <taz id="taz_1" shape="-176.70,-53.51 -177.11,-81.69 -151.83,-99.10 -122.40,-88.74 -121.57,-49.78 -150.17,-33.61 -175.45,-52.68 -176.70,-53.51" color="blue">
+        <tazSource id="-E0" weight="1.00"/>
+        <tazSink id="-E0" weight="1.00"/>
+        <tazSource id="E0" weight="1.00"/>
+        <tazSink id="E0" weight="1.00"/>
+    </taz>
+    <taz id="taz_2" shape="-7.34,-245.32 20.02,-247.81 36.60,-222.52 22.51,-195.17 -14.38,-192.68 -28.06,-218.79 -8.58,-244.08 -7.34,-245.32" color="blue">
+        <tazSource id="-E2" weight="1.00"/>
+        <tazSink id="-E2" weight="1.00"/>
+        <tazSource id="E2" weight="1.00"/>
+        <tazSink id="E2" weight="1.00"/>
+    </taz>
+    <taz id="taz_3" shape="195.55,-56.31 200.39,-91.85 167.28,-112.05 132.54,-91.85 134.96,-45.00 161.62,-35.31 193.12,-56.31 195.55,-56.31" color="blue">
+        <tazSource id="-E1" weight="1.00"/>
+        <tazSink id="-E1" weight="1.00"/>
+        <tazSource id="E1" weight="1.00"/>
+        <tazSink id="E1" weight="1.00"/>
+    </taz>
+</additional>
